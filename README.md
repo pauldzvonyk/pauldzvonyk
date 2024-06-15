@@ -6,7 +6,7 @@ Full Stack / Python Developer
 
 2 years of coding in Django and Flask frameworks, HTML, CSS, JS and Bootstrap for frontend, Python for backend, ORM in dbs like MySQL, deploying with pythonanywhere. Absolutely love new challenges, crushing with Leetcode & Hackerrank, and chat to colleagues. Looking for the opportunity to use my skills to create new and complex B2B or B2C Saas projects.
 
-* 🌍  I'm based in Arklow, Co. Wicklow
+* 🌍  I'm based in Arklow, Co. Wicklow, Ireland
 * 🖥️  See my portfolio at [My portfo site](http://pdzvonyk160181.pythonanywhere.com)
 * ✉️  You can contact me at [pauldzvonyk81@gmail.com](mailto:pauldzvonyk81@gmail.com)
 * 🧠  I'm learning Data Structures & Algirithms
